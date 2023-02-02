@@ -184,6 +184,22 @@
       height="30"
       width="60"
   /></a>
+  <a href="mailto:tofazzalhaque63@gmail.com" target="blank"
+    ><img
+      align="center"
+      src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"
+      alt="11553792"
+      height="30"
+      width="60"
+  /></a>
+  <a href="https://wa.me/+8801715693194" target="blank"
+    ><img
+      align="center"
+      src="https://cdn3.iconfinder.com/data/icons/social-media-logos-flat-colorful/2048/5302_-_Whatsapp-512.png"
+      alt="11553792"
+      height="30"
+      width="60"
+  /></a>
   <a href="https://stackoverflow.com/users/11553792" target="blank"
     ><img
       align="center"
