@@ -73,7 +73,7 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png"
       alt="express"
       width="60"
       height="60"
