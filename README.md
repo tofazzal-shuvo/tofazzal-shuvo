@@ -57,7 +57,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg"
       alt="nodejs"
       width="60"
       height="60"
@@ -131,14 +131,6 @@
   </a>
 
   <!-- asdfas -->
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-      alt="babel"
-      width="60"
-      height="60"
-    />
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
